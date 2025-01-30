@@ -1,6 +1,9 @@
 # IMF Gadget API 🚀
 A secure API for managing the Impossible Missions Force (IMF) gadget inventory using Node.js, Express, PostgreSQL, and Sequelize ORM.
 
+## Deployed API Link
+https://imf-gadget-api-raev.onrender.com/
+
 ## Features
 - Gadget Inventory Management
   - Retrieve all gadgets with a random mission success probability.
