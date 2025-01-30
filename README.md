@@ -4,6 +4,9 @@ A secure API for managing the Impossible Missions Force (IMF) gadget inventory u
 ## Deployed API Link
 https://imf-gadget-api-raev.onrender.com/
 
+## Postman Documentation
+https://documenter.getpostman.com/view/37116174/2sAYX2NQCZ
+
 ## Features
 - Gadget Inventory Management
   - Retrieve all gadgets with a random mission success probability.
