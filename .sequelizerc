@@ -1,0 +1,10 @@
+// this will tell the sql cli to create all this folder inside db folder
+
+const path = require('path');
+
+module.exports = {
+  config: path.resolve('config', 'config.js'), // we mostly use js file instead of json so that we can use env variables.
+  'models-path': path.resolve('db', 'models'),
+  'seeders-path': path.resolve('db', 'seeders'),
+  'migrations-path': path.resolve('db', 'migrations'),
+};
